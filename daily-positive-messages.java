@@ -22,7 +22,7 @@ String[ ] quotes  = {
    "I feel great about being my unique self."
    
     };
-   // displays random quote whenever the user acess the app 
+   // displays random quote whenever the user access the app 
    
 Random quotePickup = new Random( );
 int randomIndex =
